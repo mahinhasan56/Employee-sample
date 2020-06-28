@@ -1,4 +1,5 @@
 # Employee-sample
+
 Solution
 
 This is simple java application about Employee age,gender,salary,there salary pattern
@@ -6,13 +7,13 @@ This is simple java application about Employee age,gender,salary,there salary pa
 
 Documentation:
 
-Install JDK
+1.Install JDK
 
 
-Install Eclipse/Netbeans
+2.Install Eclipse/Netbeans
 
 
-Copy & Paste the code
+3.Copy & Paste the code
 
 
-Run Program
+4.Run Program
